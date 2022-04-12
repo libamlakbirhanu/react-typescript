@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(3, 1, 16);
+    color: white;
+    padding: 2rem;
+    margin: 0;
+}
+
+.container {
+    padding: 0 2rem;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: purple;
+}
+
+p {
+    color: rgba(0,0,0,.6);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    color: rgba(0,0,0,.6);
+    font-weight: bolder;
+}
